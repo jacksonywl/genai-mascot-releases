@@ -4,7 +4,7 @@ An animated GenAI companion for your Mac desktop.
 
 ## Download
 
-Signed Mac installers will appear in [Releases](https://github.com/jacksonywl/genai-mascot-releases/releases). Requires macOS 13 or later; supports Apple Silicon and Intel Macs.
+[Download the signed and Apple-notarized Mac installer](https://github.com/jacksonywl/genai-mascot-releases/releases/latest). Requires macOS 13 or later; supports Apple Silicon and Intel Macs.
 
 Open the downloaded DMG, drag Mascot Companion into Applications, and launch it from Applications.
 
@@ -16,6 +16,6 @@ Open the downloaded DMG, drag Mascot Companion into Applications, and launch it 
 - Control–Option–M triggers a surprise. Space does the same when the mascot is focused.
 - Auto-play chooses a reaction after 15–30 idle seconds. Pause stops auto-play too.
 
-Future signed releases support background downloads with an explicit restart to install an update.
+The signed release checks for new versions in the background. Downloaded updates require an explicit restart to install.
 
 This repository hosts installers and update files. Application source and signing credentials are not stored here.
